@@ -1,0 +1,19 @@
+if(0){
+    console.log("true");
+    document.write("true")
+}else{
+    console.log("false");
+    document.write("<br>");
+    document.write("false");
+}
+document.write("<br>");
+document.write("<br>");
+if(1){
+    console.log("true");
+    document.write("true")
+}
+else{
+    console.log("false");
+    document.write("<br>");
+    document.write("false");
+}
